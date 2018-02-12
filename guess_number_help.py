@@ -1,5 +1,6 @@
 """
-Класс для cоздания случайныч чисел и сравнения чисел.
+A class for creating random numbers and comparing numbers.
+Класс для cоздания случайных чисел и сравнения чисел.
 Программа guess_number.py
 """
 
