@@ -1,4 +1,4 @@
-# Script for parsing 
+# Game Guess Number
 
 python3
 
